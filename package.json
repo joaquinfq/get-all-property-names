@@ -1,0 +1,23 @@
+{
+    "version"     : "0.1.0",
+    "name"        : "get-all-property-names",
+    "author"      : "Joaquín Fernández",
+    "description" : "Get all property names of an object/function/class including non-enumerable and inherited ones.",
+    "keywords"    : [
+        "properties",
+        "own",
+        "inherited",
+        "class",
+        "function",
+        "object"
+    ],
+    "license"     : "MIT",
+    "homepage"    : "http://www.joaquinfernandez.net",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/joaquinfq/get-all-property-names"
+    },
+    "scripts"     : {
+        "test" : "node test"
+    }
+}
